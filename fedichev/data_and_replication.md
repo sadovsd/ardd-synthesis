@@ -10,3 +10,14 @@ range 1–85 y.o., see Supplementary Table 1 for the description
 of the data fields).
 
 two large longitudinal datasets, jointly referred to and available as GEROLONG
+
+
+# A Minimal Model Explains Aging Regimes and Guides Intervention Strategies
+
+DNA methylation (DNAm)
+data in mice, which reveal two major signatures: (i) a linear
+component linked to damage accumulation (Z) and
+(ii) an exponential trend reflecting intrinsic instability
+along z0 [55]. A similar exponential component was recovered
+from longitudinal blood cell counts in the Mouse
+Phenome Database
