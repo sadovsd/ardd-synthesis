@@ -1,3 +1,11 @@
+# Week 0 — Content ideas
+
+Twitter/X posts, reels, and shorts drawn from the week's talks and papers.
+
+---
+
+## Fedichev — biophysics of aging
+
 #### gompertz law
 - current biological clocks don't explain the rapid doubling in mortality every 8 years
 - 'A Minimal Model Explains Aging Regimes and Guides Intervention Strategies'
@@ -33,5 +41,5 @@ a late-life plateau
 
 
 #### this equation describes all of aging...
-![alt text](images/image.png)
+![alt text](images/fedichev/gompertz_equation.png)
 - start vid off with iamge then talk about each part of it
