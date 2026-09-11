@@ -9,13 +9,16 @@
 3. **What are the key concepts, background fields, and associated studies or reviews.**
 
 
-4. **What are the key computational, statistical, and biological methods used**
+4. **What topics did this paper make you want to read/learn more about?** 
 
 
-5. **Connections to concepts/terms encountered before.**
+5. **What are the key computational, statistical, and biological methods used**
 
 
-6. **What are some specific ways in which this paper makes you think differently and/or give you ideas about your own project(s)?** 
+6. **Connections to concepts/terms encountered before.**
 
 
-6. **Overall rating out of 10 for value in revisting the talk and associated paper/s in greater depth later.**
+7. **What are some specific ways in which this paper makes you think differently and/or give you ideas about your own project(s)?** 
+
+
+8. **Overall rating out of 10 for value in revisting the talk and associated paper/s in greater depth later.**

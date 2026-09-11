@@ -29,5 +29,6 @@ https://www.youtube.com/watch?v=lt3rZczj3ws
 
 6. **Overall rating out of 10 for value in revisting the talk and associated paper/s in greater depth later.**
 
--6/10
+-7/10
 -not alot of biological or technical insight but would be cool to look into his supplementary data or a paper that captures the trume analysis that was done and see if the statistical methodology of drug effects makes sense or if he needed bonferroni or something. Also to just learn the statistics methods there.
+- would like to run linAGE on myself
