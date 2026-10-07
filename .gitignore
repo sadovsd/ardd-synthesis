@@ -1,1 +1,8 @@
 .DS_Store
+
+# slide screenshots (large, speakers' content): kept locally only
+weeks/*/presentation_screenshots/
+
+# python
+__pycache__/
+.venv/

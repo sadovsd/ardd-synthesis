@@ -1,0 +1,5 @@
+yt-dlp
+numpy
+pillow
+ocrmac  # macOS only (uses the built-in Vision OCR)
+# also needs ffmpeg on PATH: brew install ffmpeg
